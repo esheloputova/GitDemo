@@ -14,6 +14,7 @@
     <favorites_list name="GitDemo" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf />
   </component>
   <component name="Git.Settings">
@@ -30,6 +31,18 @@
         <option value="$PROJECT_DIR$/demo/.gitignore" />
       </list>
     </option>
+=======
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> newFeatureX
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -181,6 +194,7 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" sideWeight="0.5011765" side_tool="true" weight="0.24969475" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -206,6 +220,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32967034" />
       <window_info id="Favorites" order="2" sideWeight="0.5011765" side_tool="true" weight="0.24969475" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+>>>>>>> newFeatureX
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -215,6 +237,7 @@
     <entry file="file://$PROJECT_DIR$/demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/demo/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -229,6 +252,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> newFeatureX
   </component>
   <component name="masterDetails">
     <states>
